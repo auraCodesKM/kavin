@@ -34,7 +34,7 @@ export function ContactSection() {
   ]
 
   return (
-    <section id="contact" className="py-12 md:py-20 lg:py-24 relative overflow-hidden">
+    <section id="contact" className="py-12 md:py-20 lg:py-24 relative overflow-hidden bg-gradient-to-b from-white to-gray-50 dark:from-black dark:to-gray-900">
       <GoogleGeminiEffect>
         <BackgroundBeamsWithCollision>
           <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
@@ -90,7 +90,7 @@ export function ContactSection() {
               </div>
             </motion.div>
 
-            {/* World Map Section */}
+            {/* World Map Section - Enhanced visibility */}
             <motion.div
               initial={{ opacity: 0, y: 40 }}
               whileInView={{ opacity: 1, y: 0 }}
@@ -98,16 +98,26 @@ export function ContactSection() {
               className="relative"
             >
               <div className="mb-8 md:mb-12">
-                <h3 className="text-xl md:text-2xl lg:text-3xl font-semibold text-gray-900 dark:text-white mb-4">
-                  Global Connections
+                <h3 className="text-2xl md:text-3xl lg:text-4xl font-bold text-gray-900 dark:text-white mb-4">
+                  Professional Network
                 </h3>
-                <p className="text-base md:text-lg text-gray-600 dark:text-gray-400 max-w-2xl mx-auto">
-                  Connecting with clients and collaborators worldwide to create impactful digital solutions
+                <p className="text-lg md:text-xl text-gray-600 dark:text-gray-400 max-w-3xl mx-auto">
+                  Building connections and delivering solutions across the globe
                 </p>
               </div>
 
-              <div className="h-64 md:h-80 lg:h-96 w-full rounded-2xl overflow-hidden bg-gradient-to-br from-blue-50 to-indigo-100 dark:from-gray-900 dark:to-gray-800 p-4 md:p-6">
-                <WorldMap dots={dots} />
+              <div className="relative h-80 md:h-96 lg:h-[28rem] w-full rounded-2xl overflow-hidden bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 dark:from-gray-900 dark:via-blue-950 dark:to-purple-950 p-6 md:p-8 border border-gray-200 dark:border-gray-700 shadow-2xl">
+                {/* Enhanced background pattern */}
+                <div className="absolute inset-0 bg-gradient-to-r from-blue-500/5 to-purple-500/5 dark:from-blue-400/10 dark:to-purple-400/10"></div>
+                <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,rgba(59,130,246,0.1),transparent_50%)] dark:bg-[radial-gradient(circle_at_50%_50%,rgba(147,197,253,0.1),transparent_50%)]"></div>
+                
+                {/* World Map with better contrast */}
+                <div className="relative z-10 h-full w-full">
+                  <WorldMap dots={dots} lineColor="#3b82f6" />
+                </div>
+                
+                {/* Overlay for better visibility */}
+                <div className="absolute inset-0 bg-gradient-to-t from-white/20 via-transparent to-white/20 dark:from-black/20 dark:via-transparent dark:to-black/20 pointer-events-none"></div>
               </div>
             </motion.div>
 
