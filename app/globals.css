@@ -65,7 +65,40 @@
   }
   body {
     @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
   }
+}
+
+/* Smooth scrolling and enhanced animations */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 80px;
+}
+
+/* Enhanced scrollbar styling */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(156, 163, 175, 0.5);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(156, 163, 175, 0.7);
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: rgba(75, 85, 99, 0.5);
+}
+
+.dark ::-webkit-scrollbar-thumb:hover {
+  background: rgba(75, 85, 99, 0.7);
 }
 
 .no-visible-scrollbar {
@@ -78,6 +111,7 @@
   display: none;
 }
 
+/* Enhanced animations */
 @keyframes spotlight {
   0% {
     opacity: 0;
@@ -109,10 +143,56 @@
   }
 }
 
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInScale {
+  from {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
 .animate-scroll {
   animation: scroll var(--animation-duration, 40s) var(--animation-direction, forwards) linear infinite;
 }
 
+.animate-fadeInUp {
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+
+.animate-fadeInScale {
+  animation: fadeInScale 0.8s ease-out forwards;
+}
+
+.animate-shimmer {
+  background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+  background-size: 200% 100%;
+  animation: shimmer 2s infinite;
+}
+
+/* Enhanced dot patterns */
 .bg-dot-thick-neutral-300 {
   background-image: radial-gradient(circle, #d1d5db 1px, transparent 1px);
   background-size: 15px 15px;
@@ -137,14 +217,14 @@
   perspective: 1000px;
 }
 
-/* Mobile optimizations */
-@media (max-width: 768px) {
+/* Enhanced Mobile optimizations */
+@media (max-width: 640px) {
   .text-responsive {
-    font-size: clamp(1rem, 4vw, 1.5rem);
+    font-size: clamp(0.875rem, 3.5vw, 1.25rem);
   }
 
   .heading-responsive {
-    font-size: clamp(1.5rem, 6vw, 3rem);
+    font-size: clamp(1.25rem, 5vw, 2.5rem);
   }
 
   .container-responsive {
@@ -153,24 +233,45 @@
   }
 
   /* Optimize animations for mobile */
-  .motion-reduce {
-    animation-duration: 0.01ms !important;
-    animation-iteration-count: 1 !important;
-    transition-duration: 0.01ms !important;
+  .motion-safe {
+    animation-duration: 0.3s;
+  }
+
+  /* Better touch targets */
+  .touch-target {
+    min-height: 44px;
+    min-width: 44px;
+  }
+
+  /* Reduce motion for better performance */
+  @media (prefers-reduced-motion: reduce) {
+    * {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+    }
   }
 }
 
 /* Tablet optimizations */
-@media (min-width: 768px) and (max-width: 1024px) {
+@media (min-width: 641px) and (max-width: 1024px) {
   .tablet-responsive {
-    padding-left: 2rem;
-    padding-right: 2rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+
+  .tablet-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1.5rem;
   }
 }
 
-/* Smooth scrolling for better mobile experience */
-html {
-  scroll-behavior: smooth;
+/* Desktop optimizations */
+@media (min-width: 1025px) {
+  .desktop-grid {
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2rem;
+  }
 }
 
 /* Touch optimization */
@@ -183,13 +284,15 @@ html {
     box-shadow: none;
   }
 
-  /* Disable pointer events on mobile */
-  .following-pointer {
-    display: none;
+  /* Better tap targets for mobile */
+  button,
+  a {
+    min-height: 44px;
+    min-width: 44px;
   }
 }
 
-/* Improved focus states for accessibility */
+/* Enhanced focus states for accessibility */
 @media (prefers-reduced-motion: reduce) {
   *,
   *::before,
@@ -202,6 +305,13 @@ html {
 }
 
 /* Better line clamping */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
 .line-clamp-3 {
   display: -webkit-box;
   -webkit-line-clamp: 3;
@@ -209,15 +319,14 @@ html {
   overflow: hidden;
 }
 
-/* Improved grid responsiveness */
-@media (max-width: 640px) {
-  .grid-responsive {
-    grid-template-columns: 1fr;
-    gap: 1rem;
-  }
+/* Enhanced grid responsiveness */
+.grid-responsive {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr;
 }
 
-@media (min-width: 640px) and (max-width: 1024px) {
+@media (min-width: 640px) {
   .grid-responsive {
     grid-template-columns: repeat(2, 1fr);
     gap: 1.5rem;
@@ -229,4 +338,83 @@ html {
     grid-template-columns: repeat(3, 1fr);
     gap: 2rem;
   }
+}
+
+/* Enhanced button styles */
+.btn-primary {
+  @apply bg-gradient-to-r from-blue-500 to-purple-600 hover:from-blue-600 hover:to-purple-700 text-white font-semibold px-8 py-4 rounded-xl transition-all duration-300 transform hover:scale-105 active:scale-95 shadow-lg hover:shadow-xl;
+}
+
+.btn-secondary {
+  @apply bg-white/10 hover:bg-white/20 text-gray-900 dark:text-white font-semibold px-8 py-4 rounded-xl transition-all duration-300 backdrop-blur-sm border border-gray-200 dark:border-gray-700 hover:border-gray-300 dark:hover:border-gray-600;
+}
+
+/* Loading states */
+.loading-skeleton {
+  @apply animate-pulse bg-gray-200 dark:bg-gray-700 rounded;
+}
+
+/* Enhanced spacing utilities */
+.section-padding {
+  @apply py-12 md:py-20 lg:py-24;
+}
+
+.container-padding {
+  @apply px-4 sm:px-6 lg:px-8;
+}
+
+/* Smooth transitions for all interactive elements */
+button,
+a,
+input,
+textarea,
+select {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Enhanced backdrop blur effects */
+.backdrop-blur-glass {
+  backdrop-filter: blur(16px) saturate(180%);
+  background-color: rgba(255, 255, 255, 0.75);
+  border: 1px solid rgba(255, 255, 255, 0.125);
+}
+
+.dark .backdrop-blur-glass {
+  background-color: rgba(0, 0, 0, 0.75);
+  border: 1px solid rgba(255, 255, 255, 0.125);
+}
+
+/* Enhanced gradient text */
+.gradient-text {
+  @apply bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent;
+}
+
+/* Smooth page transitions */
+.page-transition {
+  transition: opacity 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+
+/* Enhanced card hover effects */
+.card-hover {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.card-hover:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.25);
+}
+
+/* Better focus indicators */
+.focus-ring {
+  @apply focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 dark:focus:ring-offset-gray-900;
+}
+
+/* Enhanced text selection */
+::selection {
+  background-color: rgba(59, 130, 246, 0.3);
+  color: inherit;
+}
+
+.dark ::selection {
+  background-color: rgba(147, 197, 253, 0.3);
 }
