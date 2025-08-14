@@ -1,16 +1,22 @@
 <div align="center">
 
 # 🚀 **InboxTriage**
-## *AI-Powered Email Intelligence Revolution*
+## *🤖 AI-Powered Email Intelligence Revolution 🤖*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=800&lines=Transform+Gmail+Chaos+into+WhatsApp+Intelligence;7+AI+Agents+Working+24/7+for+You;Gmail+→+AI+Analysis+→+Instant+Actions;Spam+Detection+%2B+Task+Extraction;Chat+with+Your+Emails+via+WhatsApp;Built+for+Design-o-Tech+4.0" alt="Hero Typing" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-![Status](https://img.shields.io/badge/🔥_STATUS-MVP_READY-FF6B35?style=for-the-badge)
-![Hackathon](https://img.shields.io/badge/🏆_HACKATHON-DESIGN--O--TECH_4.0-4A90E2?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/🤖_AI_AGENTS-7_ACTIVE-9B59B6?style=for-the-badge)
-![Performance](https://img.shields.io/badge/⚡_PERFORMANCE-<30S_LATENCY-00D4AA?style=for-the-badge)
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=1500&pause=800&color=FF6B35&center=true&vCenter=true&width=900&lines=🔥+TRANSFORM+GMAIL+CHAOS+INTO+WHATSAPP+MAGIC!;🤖+7+AI+AGENTS+WORKING+24/7+FOR+YOU!;⚡+GMAIL+→+AI+ANALYSIS+→+INSTANT+ACTIONS!;🛡️+SPAM+DETECTION+%2B+TASK+EXTRACTION!;💬+CHAT+WITH+YOUR+EMAILS+VIA+WHATSAPP!;🏆+BUILT+FOR+DESIGN-O-TECH+4.0+DOMINATION!" alt="Hero Typing" />
 
-**[🎯 DEMO](#-demo) • [🏗️ ARCHITECTURE](#-architecture) • [🚀 SETUP](#-setup) • [👥 TEAM](#-team)**
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+
+![Status](https://img.shields.io/badge/🔥_STATUS-MVP_READY-FF6B35?style=for-the-badge&labelColor=000000)
+![Hackathon](https://img.shields.io/badge/🏆_HACKATHON-DESIGN--O--TECH_4.0-4A90E2?style=for-the-badge&labelColor=000000)
+![AI Agents](https://img.shields.io/badge/🤖_AI_AGENTS-7_ACTIVE-9B59B6?style=for-the-badge&labelColor=000000)
+![Performance](https://img.shields.io/badge/⚡_PERFORMANCE-<30S_LATENCY-00D4AA?style=for-the-badge&labelColor=000000)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
+
+**[🎯 EXPLOSIVE DEMO](#-demo) • [🏗️ MIND-BLOWING ARCHITECTURE](#-architecture) • [🚀 LIGHTNING SETUP](#-setup) • [👥 DREAM TEAM](#-team)**
 
 ---
 
@@ -136,36 +142,95 @@
 
 <div align="center">
 
-## 🏗️ **ARCHITECTURE**
+## 🏗️ **MIND-BLOWING ARCHITECTURE**
 
-### **7 AI Agents Working Together**
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="600">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2000&pause=500&color=00D4AA&center=true&vCenter=true&width=700&lines=7+AI+Agents+Coordinate+Seamlessly;Gmail+→+AI+Analysis+→+WhatsApp+Actions;Real-time+Processing+in+<30+Seconds" alt="Architecture" />
+### **🤖 7 AI AGENTS IN PERFECT ORCHESTRATED HARMONY 🤖**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=1200&pause=400&color=FF6B35&center=true&vCenter=true&width=900&lines=🔥+7+AI+AGENTS+COORDINATE+IN+PERFECT+HARMONY!;⚡+GMAIL+→+AI+ANALYSIS+→+WHATSAPP+MAGIC!;🚀+REAL-TIME+PROCESSING+IN+<30+SECONDS!;🧠+GEMINI+%2B+MISTRAL+AI+POWER!;💬+RAG+CHAT+SYSTEM+FOR+EMAIL+QUERIES!" alt="Architecture" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
 
 ```mermaid
-graph LR
-    A[📧 Email Agent<br/>Gmail Monitor] --> B[🛡️ Spam Agent<br/>ML Filter]
-    B --> C[🧠 Analysis Agent<br/>Gemini + Mistral]
-    C --> D[📊 Report Agent<br/>Insights]
-    C --> E[📅 Calendar Agent<br/>Scheduling]
-    D --> F[📱 WhatsApp Agent<br/>Notifications]
-    E --> F
-    G[💬 Chat Agent<br/>RAG System] <--> F
+%%{init: {
+  'theme': 'dark',
+  'themeVariables': {
+    'primaryColor': '#ff6b35',
+    'primaryTextColor': '#fff',
+    'primaryBorderColor': '#fff',
+    'lineColor': '#00d4aa',
+    'secondaryColor': '#4ecdc4',
+    'tertiaryColor': '#45b7d1',
+    'background': '#0d1117',
+    'mainBkg': '#161b22',
+    'secondBkg': '#21262d'
+  }
+}}%%
+
+graph TB
+    subgraph ORCHESTRATOR ["🎯 MASTER ORCHESTRATOR"]
+        O["🎯 MASTER AI CONDUCTOR<br/>🧠 Coordinates all 7 agents<br/>⚡ Real-time decision making<br/>📊 Performance monitoring<br/>🚀 Lightning-fast coordination"]
+    end
     
-    style A fill:#4285F4,color:#fff
-    style B fill:#FF6B35,color:#fff
-    style C fill:#00C851,color:#fff
-    style D fill:#FF9800,color:#fff
-    style E fill:#9C27B0,color:#fff
-    style F fill:#25D366,color:#fff
-    style G fill:#2196F3,color:#fff
+    subgraph INPUT ["📧 INPUT POWERHOUSE"]
+        A["📧 EMAIL AGENT<br/>🔐 OAuth Gmail monitoring<br/>⏰ 30-second polling<br/>📨 Content preprocessing<br/>🎯 Smart email detection"]
+        A --> B["🛡️ SPAM DESTROYER<br/>🤖 XGBoost + TF-IDF ML<br/>🎯 90%+ accuracy rate<br/>⚡ Real-time filtering<br/>🔥 Advanced threat detection"]
+    end
+    
+    subgraph PROCESSING ["🧠 AI BRAIN CENTER"]
+        B --> C["🧠 ANALYSIS GENIUS<br/>🤖 Gemini Pro + Mistral AI<br/>📝 Smart task extraction<br/>💭 Advanced sentiment analysis<br/>🎯 Context understanding"]
+        C --> D["📊 REPORT WIZARD<br/>📈 Beautiful visual dashboards<br/>😊 Sentiment scoring magic<br/>📋 Instant PDF generation<br/>🎨 Interactive charts"]
+        C --> E["📅 CALENDAR MASTER<br/>🗓️ Google Calendar API<br/>🔗 Auto Meet link creation<br/>👥 Smart auto-invitations<br/>⏰ Intelligent scheduling"]
+    end
+    
+    subgraph OUTPUT ["📱 ACTION EXPLOSION"]
+        D --> F["📱 WHATSAPP ROCKET<br/>📲 Twilio Business API<br/>🎨 Action card formatting<br/>⚡ <5s delivery speed<br/>💥 Instant notifications"]
+        E --> F
+        G["💬 CHAT SUPERHERO<br/>🧠 ChromaDB RAG system<br/>🔍 Vector search magic<br/>💭 Conversational AI genius<br/>🚀 Lightning responses"] <--> F
+    end
+    
+    subgraph DATA ["🗂️ DATA FORTRESS"]
+        H[("🔥 FIREBASE<br/>📊 User data vault<br/>🔐 Encrypted token storage<br/>📈 Real-time analytics<br/>⚡ Lightning database")]
+        I[("🧠 CHROMADB<br/>🔍 Vector embeddings<br/>📚 Email indexing magic<br/>⚡ Ultra-fast retrieval<br/>🎯 Smart search")]
+        J[("⚡ REDIS TURBO<br/>🚀 Agent coordination<br/>💾 Session caching<br/>🔄 Pub/sub messaging<br/>💥 Real-time sync")]
+    end
+    
+    O -.->|"🎯 ORCHESTRATES"| A
+    O -.->|"🎯 ORCHESTRATES"| B
+    O -.->|"🎯 ORCHESTRATES"| C
+    O -.->|"🎯 ORCHESTRATES"| D
+    O -.->|"🎯 ORCHESTRATES"| E
+    O -.->|"🎯 ORCHESTRATES"| F
+    O -.->|"🎯 ORCHESTRATES"| G
+    
+    F -->|"💾 STORES"| H
+    G -->|"🔍 INDEXES"| I
+    C -->|"⚡ CACHES"| J
+    
+    classDef orchestrator fill:#ff6b35,stroke:#fff,stroke-width:4px,color:#fff,font-weight:bold
+    classDef input fill:#4ecdc4,stroke:#fff,stroke-width:3px,color:#fff,font-weight:bold
+    classDef processing fill:#45b7d1,stroke:#fff,stroke-width:3px,color:#fff,font-weight:bold
+    classDef output fill:#f9ca24,stroke:#333,stroke-width:3px,color:#333,font-weight:bold
+    classDef data fill:#6c5ce7,stroke:#fff,stroke-width:3px,color:#fff,font-weight:bold
+    
+    class O orchestrator
+    class A,B input
+    class C,D,E processing
+    class F,G output
+    class H,I,J data
 ```
 
-### **⚡ Performance**
-- **<30 seconds** end-to-end processing
-- **>95%** WhatsApp delivery success
-- **>90%** spam detection accuracy
-- **<5 seconds** chat response time
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
+
+### **⚡ EXPLOSIVE PERFORMANCE METRICS**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1000&pause=300&color=FF6B35&center=true&vCenter=true&width=800&lines=⚡+<30+SECONDS+END-TO-END+LIGHTNING!;🎯+>95%25+WHATSAPP+DELIVERY+SUCCESS!;🛡️+>90%25+SPAM+DETECTION+ACCURACY!;💬+<5+SECONDS+RAG+RESPONSE+TIME!" alt="Performance" />
+
+- **⚡ <30 seconds** end-to-end processing lightning speed
+- **🎯 >95%** WhatsApp delivery success rate
+- **🛡️ >90%** spam detection accuracy
+- **💬 <5 seconds** chat response time
 
 ## 🚀 **Quick Start Guide**
 
