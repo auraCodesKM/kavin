@@ -1,23 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=InboxTriage&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=40&desc=⚡%20AI-Powered%20Email%20Intelligence%20Revolution%20⚡&descSize=25&descAlignY=60" width="100%">
+# 🚀 **InboxTriage**
+## *AI-Powered Email Intelligence Revolution*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=900&lines=🚀+TRANSFORM+EMAIL+CHAOS+INTO+WHATSAPP+INTELLIGENCE;🤖+7+AI+AGENTS+WORKING+24/7+FOR+YOU;📧+GMAIL+→+🧠+AI+ANALYSIS+→+📱+INSTANT+ACTIONS;⚡+SPAM+DETECTION+%2B+TASK+EXTRACTION+%2B+SCHEDULING;💬+CHAT+WITH+YOUR+EMAILS+VIA+WHATSAPP;🏆+BUILT+FOR+DESIGN-O-TECH+4.0+VICTORY" alt="Hero Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=800&lines=Transform+Gmail+Chaos+into+WhatsApp+Intelligence;7+AI+Agents+Working+24/7+for+You;Gmail+→+AI+Analysis+→+Instant+Actions;Spam+Detection+%2B+Task+Extraction;Chat+with+Your+Emails+via+WhatsApp;Built+for+Design-o-Tech+4.0" alt="Hero Typing" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+![Status](https://img.shields.io/badge/🔥_STATUS-MVP_READY-FF6B35?style=for-the-badge)
+![Hackathon](https://img.shields.io/badge/🏆_HACKATHON-DESIGN--O--TECH_4.0-4A90E2?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/🤖_AI_AGENTS-7_ACTIVE-9B59B6?style=for-the-badge)
+![Performance](https://img.shields.io/badge/⚡_PERFORMANCE-<30S_LATENCY-00D4AA?style=for-the-badge)
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🔥_STATUS-MVP_READY-FF6B35?style=for-the-badge&logo=rocket&logoColor=white&labelColor=000">
-  <img src="https://img.shields.io/badge/🏆_HACKATHON-DESIGN--O--TECH_4.0-4A90E2?style=for-the-badge&logo=trophy&logoColor=white&labelColor=000">
-  <img src="https://img.shields.io/badge/🤖_AI_AGENTS-7_ACTIVE-9B59B6?style=for-the-badge&logo=brain&logoColor=white&labelColor=000">
-  <img src="https://img.shields.io/badge/⚡_PERFORMANCE-<30S_LATENCY-00D4AA?style=for-the-badge&logo=lightning&logoColor=white&labelColor=000">
-</div>
+**[🎯 DEMO](#-demo) • [🏗️ ARCHITECTURE](#-architecture) • [🚀 SETUP](#-setup) • [👥 TEAM](#-team)**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500">
-
-**[🎯 LIVE DEMO](#-explosive-demo) • [🏗️ ARCHITECTURE](#-animated-architecture) • [🚀 QUICK START](#-lightning-setup) • [👥 DREAM TEAM](#-dream-team)**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+---
 
 </div>
 
@@ -29,86 +24,31 @@
 - 📊 **Inefficient** (no real-time sentiment tracking)
 - 📱 **Disconnected** (no instant team notifications)
 
-<div align="center">
+## 💥 **THE PROBLEM**
 
-## 💥 **THE REAL PROBLEM EVERYONE FACES**
+### **Email Overload is Killing Productivity**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-a8c5-0a8c7e7f5c5a.gif" width="150">
+**For Individuals:**
+- 📧 **100+ emails daily** = complete overwhelm
+- ⏰ **2+ hours daily** sorting emails manually
+- 🤯 **Important tasks buried** in spam and clutter
+- 📱 **Gmail app = basic notifications only** (no intelligence)
 
-### 🔥 **Email Overload is Killing Productivity for EVERYONE**
+**For Organizations:**
+- 🔥 **1000+ emails daily** = absolute chaos
+- 👥 **Teams miss critical communications** in the flood
+- 📊 **Feedback analysis = manual nightmare** (hours of work)
+- 💰 **Productivity loss = thousands of dollars** wasted
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF4757&center=true&vCenter=true&width=800&lines=📧+INDIVIDUALS%3A+100%2B+emails+daily+%3D+OVERWHELM;🏢+ORGANIZATIONS%3A+1000%2B+emails+%3D+CHAOS;😵+MANUAL+SORTING+%3D+HOURS+WASTED+DAILY;🤯+IMPORTANT+TASKS+BURIED+IN+SPAM;📱+GMAIL+APP+%3D+BASIC+%2B+NO+INTELLIGENCE" alt="Problem" />
+### 🚨 **Why Gmail Mobile App Fails**
 
-</div>
-
-### 🚨 **Why Gmail Mobile App Isn't Enough**
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="60">
-<h4>📱 BASIC NOTIFICATIONS</h4>
-<p>Gmail app = simple alerts<br/>❌ No task extraction<br/>❌ No priority analysis</p>
-</td>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="60">
-<h4>🧠 NO AI INTELLIGENCE</h4>
-<p>Manual email reading<br/>❌ No sentiment analysis<br/>❌ No smart categorization</p>
-</td>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="60">
-<h4>💬 NO CHAT INTERFACE</h4>
-<p>Can't query your emails<br/>❌ No conversational search<br/>❌ No WhatsApp integration</p>
-</td>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/216122049-276f2c8c-bcce-42d1-9b97-587d5c5e7e5a.png" width="60">
-<h4>📊 NO ANALYTICS</h4>
-<p>Zero insights or reports<br/>❌ No feedback analysis<br/>❌ No trend tracking</p>
-</td>
-<td align="center" width="20%">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60">
-<h4>🤖 NO AUTOMATION</h4>
-<p>Everything is manual<br/>❌ No auto-scheduling<br/>❌ No smart actions</p>
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 🎯 **Real Pain Points for EVERYONE**
-
-</div>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%">
-
-#### 👤 **INDIVIDUALS**
-```
-😤 100+ emails daily = overwhelm
-⏰ 2+ hours sorting emails manually  
-🤯 Important tasks buried in spam
-📱 Gmail app = just basic notifications
-💸 Missing opportunities in email chaos
-🧠 No AI to understand email content
-```
-
-</td>
-<td width="50%">
-
-#### 🏢 **ORGANIZATIONS**
-```
-🔥 1000+ emails daily = complete chaos
-👥 Teams miss critical communications
-📊 Feedback analysis = manual nightmare
-📈 No real-time sentiment tracking
-🤝 Poor collaboration due to email silos
-💰 Productivity loss = thousands of dollars
-```
-
-</td>
-</tr>
-</table>
+| Gmail Mobile App | What's Missing |
+|------------------|----------------|
+| 📱 Basic notifications | ❌ No AI intelligence |
+| 📧 Simple email reading | ❌ No task extraction |
+| 🔍 Basic search | ❌ No conversational queries |
+| 📊 No analytics | ❌ No sentiment analysis |
+| 🤖 No automation | ❌ No smart actions |
 
 <div align="center">
 
@@ -176,110 +116,64 @@
 
 </div>
 
-## 🚀 **Our Solution: Multi-Agent AI System**
+## 🚀 **OUR SOLUTION: InboxTriage**
 
-InboxTriage deploys **specialized AI agents** that work together to transform email chaos into actionable intelligence:
+### **AI-Powered Email Intelligence System**
 
-```
-📧 Email Agent    → Monitors Gmail & processes incoming feedback
-🧠 Analysis Agent → Runs sentiment analysis using Gemini/Mistral AI  
-📊 Report Agent   → Generates beautiful visual reports & insights
-📱 Notification Agent → Sends instant WhatsApp alerts to stakeholders
-💬 Chat Agent     → Provides interactive Q&A about your data
-```
+**InboxTriage transforms your Gmail into an intelligent assistant that:**
+
+1. **🛡️ Filters Spam** - Advanced ML algorithms (90%+ accuracy)
+2. **🧠 Analyzes Content** - Gemini + Mistral AI extract tasks, sentiment, meetings
+3. **📱 Sends WhatsApp Alerts** - Instant notifications with actionable insights
+4. **💬 Enables Email Chat** - Ask questions about your emails via WhatsApp
+5. **📊 Generates Reports** - Beautiful feedback analysis with charts
+6. **📅 Schedules Meetings** - Auto-create calendar events with Meet links
+
+### **🎯 InboxTriage vs Gmail App**
+
+| Feature | Gmail Mobile App | InboxTriage |
+|---------|------------------|-------------|
+| **Notifications** | 📱 Basic alerts | 🤖 AI-powered action cards |
+| **Intelligence** | ❌ None | 🧠 Gemini + Mistral AI |
+| **Chat Interface** | ❌ None | 💬 WhatsApp conversations |
+| **Analytics** | ❌ None | 📊 Beautiful reports + insights |
+| **Automation** | ❌ Manual only | 🤖 Full pipeline automation |
+| **Task Extraction** | ❌ None | 🎯 Smart task detection |
+| **Sentiment Analysis** | ❌ None | 📈 Real-time tracking |
+| **Meeting Scheduling** | ❌ None | 📅 Auto-calendar integration |
 
 <div align="center">
 
-## 🏗️ **ANIMATED ARCHITECTURE**
+## 🏗️ **ARCHITECTURE**
 
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
+### **7 AI Agents Working Together**
 
-### 🤖 **7 AI AGENTS WORKING IN PERFECT HARMONY**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2000&pause=500&color=00D4AA&center=true&vCenter=true&width=900&lines=🎯+ORCHESTRATOR+COORDINATES+ALL+AGENTS;📧+EMAIL+AGENT+MONITORS+GMAIL+24/7;🛡️+SPAM+AGENT+FILTERS+WITH+90%2B+ACCURACY;🧠+ANALYSIS+AGENT+USES+GEMINI+%2B+MISTRAL;📊+REPORT+AGENT+CREATES+BEAUTIFUL+INSIGHTS;📱+WHATSAPP+AGENT+DELIVERS+INSTANT+ACTIONS;💬+CHAT+AGENT+ENABLES+RAG+CONVERSATIONS" alt="Architecture" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
-
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2000&pause=500&color=00D4AA&center=true&vCenter=true&width=700&lines=7+AI+Agents+Coordinate+Seamlessly;Gmail+→+AI+Analysis+→+WhatsApp+Actions;Real-time+Processing+in+<30+Seconds" alt="Architecture" />
 
 ```mermaid
-%%{init: {
-  'theme': 'dark',
-  'themeVariables': {
-    'primaryColor': '#ff6b6b',
-    'primaryTextColor': '#fff',
-    'primaryBorderColor': '#fff',
-    'lineColor': '#00d4aa',
-    'secondaryColor': '#4ecdc4',
-    'tertiaryColor': '#45b7d1',
-    'background': '#1a1a1a',
-    'mainBkg': '#2d2d2d',
-    'secondBkg': '#3d3d3d'
-  }
-}}%%
-
-graph TB
-    subgraph ORCHESTRATOR ["🎯 ORCHESTRATOR LAYER"]
-        O["🎯 MASTER ORCHESTRATOR<br/>🧠 Coordinates all agents<br/>⚡ Real-time decision making<br/>📊 Performance monitoring"]
-    end
+graph LR
+    A[📧 Email Agent<br/>Gmail Monitor] --> B[🛡️ Spam Agent<br/>ML Filter]
+    B --> C[🧠 Analysis Agent<br/>Gemini + Mistral]
+    C --> D[📊 Report Agent<br/>Insights]
+    C --> E[📅 Calendar Agent<br/>Scheduling]
+    D --> F[📱 WhatsApp Agent<br/>Notifications]
+    E --> F
+    G[💬 Chat Agent<br/>RAG System] <--> F
     
-    subgraph INPUT ["📧 INPUT LAYER"]
-        A["📧 EMAIL AGENT<br/>🔐 OAuth Gmail monitoring<br/>⏰ 30-second polling<br/>📨 Content preprocessing"]
-        A --> B["🛡️ SPAM AGENT<br/>🤖 XGBoost + TF-IDF<br/>🎯 90%+ accuracy<br/>⚡ Real-time filtering"]
-    end
-    
-    subgraph PROCESSING ["🧠 PROCESSING LAYER"]
-        B --> C["🧠 ANALYSIS AGENT<br/>🤖 Gemini Pro + Mistral<br/>📝 Task extraction<br/>💭 Sentiment analysis"]
-        C --> D["📊 REPORT AGENT<br/>📈 Visual dashboards<br/>😊 Sentiment scoring<br/>📋 PDF generation"]
-        C --> E["📅 CALENDAR AGENT<br/>🗓️ Google Calendar API<br/>🔗 Meet link creation<br/>👥 Auto-invitations"]
-    end
-    
-    subgraph OUTPUT ["📱 OUTPUT LAYER"]
-        D --> F["📱 WHATSAPP AGENT<br/>📲 Twilio Business API<br/>🎨 Action card formatting<br/>⚡ <5s delivery"]
-        E --> F
-        G["💬 CHAT AGENT<br/>🧠 ChromaDB RAG<br/>🔍 Vector search<br/>💭 Conversational AI"] <--> F
-    end
-    
-    subgraph DATA ["🗂️ DATA LAYER"]
-        H[("🔥 FIREBASE<br/>📊 User data<br/>🔐 Encrypted tokens<br/>📈 Analytics")]
-        I[("🧠 CHROMADB<br/>🔍 Vector embeddings<br/>📚 Email indexing<br/>⚡ Fast retrieval")]
-        J[("⚡ REDIS<br/>🚀 Agent coordination<br/>💾 Session caching<br/>🔄 Pub/sub messaging")]
-    end
-    
-    O -.->|"🎯 ORCHESTRATES"| A
-    O -.->|"🎯 ORCHESTRATES"| B
-    O -.->|"🎯 ORCHESTRATES"| C
-    O -.->|"🎯 ORCHESTRATES"| D
-    O -.->|"🎯 ORCHESTRATES"| E
-    O -.->|"🎯 ORCHESTRATES"| F
-    O -.->|"🎯 ORCHESTRATES"| G
-    
-    F -->|"💾 STORES"| H
-    G -->|"🔍 INDEXES"| I
-    C -->|"⚡ CACHES"| J
-    
-    classDef orchestrator fill:#ff6b6b,stroke:#fff,stroke-width:4px,color:#fff,font-weight:bold
-    classDef input fill:#4ecdc4,stroke:#fff,stroke-width:3px,color:#fff,font-weight:bold
-    classDef processing fill:#45b7d1,stroke:#fff,stroke-width:3px,color:#fff,font-weight:bold
-    classDef output fill:#f9ca24,stroke:#333,stroke-width:3px,color:#333,font-weight:bold
-    classDef data fill:#6c5ce7,stroke:#fff,stroke-width:3px,color:#fff,font-weight:bold
-    
-    class O orchestrator
-    class A,B input
-    class C,D,E processing
-    class F,G output
-    class H,I,J data
+    style A fill:#4285F4,color:#fff
+    style B fill:#FF6B35,color:#fff
+    style C fill:#00C851,color:#fff
+    style D fill:#FF9800,color:#fff
+    style E fill:#9C27B0,color:#fff
+    style F fill:#25D366,color:#fff
+    style G fill:#2196F3,color:#fff
 ```
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-### ⚡ **PERFORMANCE METRICS**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=1500&pause=300&color=FF6B35&center=true&vCenter=true&width=800&lines=⚡+<30+SECONDS+END-TO-END+LATENCY;🎯+>95%25+WHATSAPP+DELIVERY+SUCCESS;🛡️+>90%25+SPAM+DETECTION+ACCURACY;💬+<5+SECONDS+RAG+RESPONSE+TIME;📊+1000%2B+EMAILS+PROCESSED+PER+HOUR" alt="Performance" />
-
-</div>
+### **⚡ Performance**
+- **<30 seconds** end-to-end processing
+- **>95%** WhatsApp delivery success
+- **>90%** spam detection accuracy
+- **<5 seconds** chat response time
 
 ## 🚀 **Quick Start Guide**
 
