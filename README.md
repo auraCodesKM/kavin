@@ -1,14 +1,22 @@
 <div align="center">
 
-# 🤖 InboxTriage
-### *Multi-Agent AI System for Email Intelligence & Automation*
+# 🚀 **InboxTriage** 
+## *⚡ Agentic Gmail Intelligence Revolution ⚡*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Multi-Agent+AI+Architecture;Email+Intelligence+Automation;Real-time+Sentiment+Analysis;WhatsApp+Business+Integration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Transform+Gmail+Chaos+into+WhatsApp+Intelligence;Multi-Agent+AI+Pipeline+System;Spam+Detection+%2B+Task+Extraction;RAG+Chat+%2B+Meeting+Scheduling;Built+for+Design-o-Tech+4.0" alt="Typing SVG" />
 
-[![Design-o-Tech 4.0](https://img.shields.io/badge/🏆-Design--o--Tech%204.0-gold?style=for-the-badge)](https://github.com/auraCodesKM/InboxTriage)
-[![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-Python-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-Database-FF6F00?style=for-the-badge&logo=firebase)](https://firebase.google.com/)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+![Status](https://img.shields.io/badge/Status-🔥%20MVP%20Ready-brightgreen?style=for-the-badge&logo=rocket)
+![Hackathon](https://img.shields.io/badge/🏆%20Design--o--Tech-4.0-blue?style=for-the-badge&logo=trophy)
+![License](https://img.shields.io/badge/⚡%20License-Proprietary-red?style=for-the-badge&logo=shield)
+![AI](https://img.shields.io/badge/🤖%20AI%20Agents-7%20Active-purple?style=for-the-badge&logo=brain)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+
+**[🎯 Live Demo](#-demo-flow) • [🏗️ Architecture](#-agentic-architecture) • [🚀 Quick Start](#-quick-start) • [👥 Team](#-dream-team)**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 </div>
 
@@ -19,6 +27,26 @@
 - 😰 **Error-prone** (missing critical insights)
 - 📊 **Inefficient** (no real-time sentiment tracking)
 - 📱 **Disconnected** (no instant team notifications)
+
+<div align="center">
+
+## 🎯 **What is InboxTriage?**
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
+</div>
+
+InboxTriage is a **revolutionary multi-agent AI system** that monitors Gmail, filters spam using advanced ML, extracts tasks with cutting-edge LLMs, and delivers actionable WhatsApp notifications. Perfect for organizations transforming email overload into structured intelligence.
+
+<div align="center">
+
+### 🔥 **Core Pipeline**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=800&lines=📧+Gmail+→+🧠+AI+Analysis+→+📱+WhatsApp+Actions;🛡️+Spam+Filter+→+📊+Reports+→+💬+RAG+Chat;📅+Calendar+Scheduling+→+⚡+Real-time+Delivery" alt="Pipeline" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+
+</div>
 
 ## 🚀 **Our Solution: Multi-Agent AI System**
 
@@ -32,75 +60,77 @@ InboxTriage deploys **specialized AI agents** that work together to transform em
 💬 Chat Agent     → Provides interactive Q&A about your data
 ```
 
-## ✨ **Key Features**
+<div align="center">
 
-- **🤖 Multi-Agent Architecture**: Specialized AI agents for different tasks
-- **📧 Gmail Integration**: OAuth-based email monitoring and processing
-- **🧠 Dual AI Models**: Gemini Pro + Mistral for robust analysis
-- **📊 Real-time Analytics**: Live sentiment tracking and insights
-- **📱 WhatsApp Automation**: Instant business notifications
-- **💬 Interactive Chat**: RAG-powered Q&A about your data
-- **🔒 Enterprise Security**: OAuth 2.0, encryption, audit trails
+## 🏗️ **Agentic Architecture**
 
----
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
 
-## 🏗️ **Multi-Agent Architecture**
+### Modern **Multi-Agent AI System** with Specialized Coordination
 
-Our system uses **5 specialized AI agents** that work together autonomously:
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="1000">
+
+</div>
 
 ```mermaid
 graph TB
-    subgraph "🤖 AGENT ORCHESTRATOR"
-        COORD[🎯 Coordinator Agent]
+    subgraph "🎯 Orchestrator Layer"
+        O[🎯 Master Orchestrator]
     end
     
-    subgraph "📧 EMAIL PROCESSING"
-        EMAIL[📧 Email Agent<br/>Gmail monitoring & parsing]
+    subgraph "📧 Input Layer"
+        A[📧 Email Agent<br/>Gmail Monitor]
+        A --> B[🛡️ Spam Agent<br/>ML Filter]
     end
     
-    subgraph "🧠 AI ANALYSIS"
-        ANALYSIS[🧠 Analysis Agent<br/>Gemini + Mistral processing]
+    subgraph "🧠 Processing Layer"
+        B --> C[🧠 Analysis Agent<br/>Gemini + Mistral]
+        C --> D[📊 Report Agent<br/>Sentiment Analysis]
+        C --> E[📅 Calendar Agent<br/>Meeting Scheduler]
     end
     
-    subgraph "📊 REPORT GENERATION"
-        REPORT[📊 Report Agent<br/>Charts & insights creation]
+    subgraph "📱 Output Layer"
+        D --> F[📱 WhatsApp Agent<br/>Business API]
+        E --> F
+        G[💬 Chat Agent<br/>RAG System] <--> F
     end
     
-    subgraph "📱 NOTIFICATIONS"
-        NOTIFY[📱 Notification Agent<br/>WhatsApp automation]
+    subgraph "🗂️ Data Layer"
+        H[(🔥 Firebase<br/>Firestore)]
+        I[(🧠 ChromaDB<br/>Vectors)]
+        J[(⚡ Redis<br/>Cache)]
     end
     
-    subgraph "💬 INTERACTION"
-        CHAT[💬 Chat Agent<br/>RAG-powered Q&A]
-    end
+    O --> A
+    O --> B
+    O --> C
+    O --> D
+    O --> E
+    O --> F
+    O --> G
     
-    subgraph "💾 DATA LAYER"
-        DB[(🔥 Firebase)]
-        CACHE[(⚡ Redis)]
-        VECTOR[(🗂️ Vector DB)]
-    end
+    F --> H
+    G --> I
+    C --> J
     
-    COORD --> EMAIL
-    COORD --> ANALYSIS
-    COORD --> REPORT
-    COORD --> NOTIFY
-    COORD --> CHAT
+    classDef orchestrator fill:#ff6b6b,stroke:#fff,stroke-width:3px,color:#fff
+    classDef input fill:#4ecdc4,stroke:#fff,stroke-width:2px,color:#fff
+    classDef processing fill:#45b7d1,stroke:#fff,stroke-width:2px,color:#fff
+    classDef output fill:#f9ca24,stroke:#fff,stroke-width:2px,color:#000
+    classDef data fill:#6c5ce7,stroke:#fff,stroke-width:2px,color:#fff
     
-    EMAIL --> DB
-    ANALYSIS --> DB
-    REPORT --> CACHE
-    NOTIFY --> CACHE
-    CHAT --> VECTOR
-    
-    style COORD fill:#FFD700,stroke:#FFA500,color:#000
-    style EMAIL fill:#4285F4,stroke:#1565C0,color:#fff
-    style ANALYSIS fill:#FF6B35,stroke:#E65100,color:#fff
-    style REPORT fill:#00C851,stroke:#00A040,color:#fff
-    style NOTIFY fill:#25D366,stroke:#128C7E,color:#fff
-    style CHAT fill:#9C27B0,stroke:#7B1FA2,color:#fff
+    class O orchestrator
+    class A,B input
+    class C,D,E processing
+    class F,G output
+    class H,I,J data
 ```
 
----
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
+
+</div>
 
 ## 🚀 **Quick Start Guide**
 
