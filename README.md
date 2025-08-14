@@ -5,6 +5,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=2000&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&lines=Transform+Gmail+Chaos+into+WhatsApp+Magic;7+AI+Agents+Working+24/7+for+You;Spam+Detection+%2B+Task+Extraction;Chat+with+Your+Emails+via+WhatsApp" alt="Hero Animation" />
 
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+
 <br/>
 
 ![Status](https://img.shields.io/badge/🔥_STATUS-MVP_READY-FF6B35?style=for-the-badge&labelColor=000000)
