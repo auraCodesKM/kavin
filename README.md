@@ -16,14 +16,6 @@
 
 </div>
 
-## 🎯 **The Problem**
-
-**College clubs and organizations** receive hundreds of feedback emails from Google Forms, but analyzing them manually is:
-- ⏰ **Time-consuming** (hours of manual work)
-- 😰 **Error-prone** (missing critical insights)
-- 📊 **Inefficient** (no real-time sentiment tracking)
-- 📱 **Disconnected** (no instant team notifications)
-
 ## 💥 **THE PROBLEM**
 
 ### **Email Overload is Killing Productivity**
@@ -103,7 +95,7 @@
 <h4>→</h4>
 </td>
 <td align="center" width="16%">
-<img src="https://user-images.githubusercontent.com/74038190/216122049-276f2c8c-bcce-42d1-9b97-587d5c5e7e5a.png" width="60">
+📱
 <h4>📱 WHATSAPP</h4>
 <p>Instant Actions</p>
 </td>
@@ -502,228 +494,58 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ---
 
-## 📞 **Contact & Support**
-
-## 🏆 **HACKATHON DOMINATION STRATEGY** 🏆
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600"/>
-
-### 🎯 **WHY JUDGES WILL CHOOSE US AS WINNERS**
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 **TECHNICAL EXCELLENCE**
-```
-✅ Multi-AI Integration (Gemini + Mistral)
-✅ Real-time Processing (<2s response)
-✅ Scalable Architecture (1000+ emails/hour)
-✅ Enterprise Security (OAuth + Encryption)
-✅ Advanced RAG System (Interactive chat)
-✅ Beautiful UI/UX (Animations + Responsive)
-```
-
-### 🎨 **INNOVATION FACTORS**
-```
-🌟 First-of-its-kind WhatsApp email querying
-🌟 Multi-problem approach (3 solutions in 1)
-🌟 Real-world business impact
-🌟 Advanced sentiment analysis pipeline
-🌟 Automated meeting scheduling
-🌟 Interactive report generation
-```
-
-</td>
-```
-
-<div align="center">
-
-## 🌟 **MEET THE DREAM TEAM** 🌟
-
-<img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99cc33e48a4c.gif" width="800"/>
-
-### 💫 **The Brilliant Minds Behind InboxTriage** 💫
-
-</div>
-
-<div align="center">
+## 👥 **TEAM**
 
 <table>
 <tr>
 <td align="center" width="33%">
-
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="150"/>  
 
 ### 🎯 **KAVIN THAKUR**
-#### *Visionary Project Lead*
+*Project Lead & AI Architect*
 
-<img src="https://img.shields.io/badge/🚀-Full_Stack_Architect-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⚡-DevOps_Master-green?style=for-the-badge"/>
+**Skills:**
+- 🤖 AI/LLM Integration (Gemini, Mistral)
+- 🧠 Machine Learning & Deep Learning
+- 🏗️ System Architecture Design
+- 🔧 Full-stack Development
+- 📊 Project Management
 
-**🎨 Expertise:**
-```
-🏗️ System Architecture Design
-🔧 Full-stack Development  
-📊 Project Management
-🚀 Deployment & Scaling
-💼 Team Leadership
-🎯 Product Strategy
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kavin070810/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kavin070810/)
 
 </td>
 <td align="center" width="33%">
-
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="150"/>  
 
 ### 🤖 **MEHARJOT KAUR**
-#### *AI/ML Research Genius*
+*AI/ML Research Specialist*
 
-<img src="https://img.shields.io/badge/🧠-AI_Researcher-purple?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🔬-ML_Engineer-orange?style=for-the-badge"/>
+**Skills:**
+- 🤖 Large Language Models
+- 📊 Sentiment Analysis
+- 🧮 Natural Language Processing
+- 🔍 Machine Learning Research
+- 📈 Model Optimization
 
-**🎨 Expertise:**
-```
-🤖 Large Language Models
-📊 Sentiment Analysis
-🧮 Natural Language Processing
-🔍 Machine Learning Research
-📈 Model Optimization
-🎯 AI Strategy & Innovation
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meharjot-kaur-1bb057333/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meharjot-kaur-1bb057333/)
 
 </td>
 <td align="center" width="33%">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="150"/>
-
 ### 🎨 **YASHDEEP SINGH**
-#### *Full-Stack Design Wizard*
+*Full-Stack Developer & UI/UX Designer*
 
-<img src="https://img.shields.io/badge/🎨-UI/UX_Designer-pink?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/💻-Full_Stack_Dev-teal?style=for-the-badge"/>
+**Skills:**
+- 🎨 UI/UX Design & Animation
+- ⚛️ React/Next.js Development
+- 🔧 FastAPI Backend Development
+- 📱 Responsive Web Design
+- 🚀 Performance Optimization
 
-**🎨 Expertise:**
-```
-🎨 UI/UX Design Excellence
-⚛️ React/Next.js Frontend
-🚀 Backend Development
-📱 Mobile-First Design
-🌈 Animation & Interactions
-💡 User Experience Strategy
-```
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashdeep-singh-887a08245/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yashdeep-singh-887a08245/)
 
 </td>
 </tr>
 </table>
 
-</div>
-
-<div align="center">
-
-### 🏆 **TEAM SUPERPOWERS COMBINED**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎯-Leadership-gold?style=for-the-badge"/>
-<br><strong>Strategic Vision</strong>
-<br><em>Kavin's project leadership</em>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🧠-AI_Innovation-purple?style=for-the-badge"/>
-<br><strong>AI Excellence</strong>
-<br><em>Meharjot's ML expertise</em>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🎨-Design_Magic-pink?style=for-the-badge"/>
-<br><strong>UX Brilliance</strong>
-<br><em>Yashdeep's design skills</em>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🚀-Execution-red?style=for-the-badge"/>
-<br><strong>Flawless Delivery</strong>
-<br><em>Team collaboration</em>
-</td>
-</tr>
-</table>
-
-### 💪 **WHY WE'LL WIN DESIGN-O-TECH 4.0**
-
-```
-🎯 COMPLEMENTARY SKILLS: Perfect balance of technical & creative expertise
-🚀 PROVEN TRACK RECORD: Each member brings unique strengths & experience  
-💡 INNOVATIVE MINDSET: Always pushing boundaries with cutting-edge tech
-🤝 SEAMLESS COLLABORATION: Synchronized teamwork for maximum efficiency
-🏆 WINNING MENTALITY: Committed to delivering excellence & impressing judges
-```
-
-### 📊 **Performance Metrics**
-
-- **Email Processing**: 1000+ emails/hour
-- **AI Analysis Speed**: <2 seconds per email
-- **WhatsApp Delivery**: 95%+ success rate
-- **Sentiment Accuracy**: 92%+ on test dataset
-- **Uptime**: 99.9% availability target
-
----
-
-## 🔒 **Security & Privacy**
-
-### **Data Protection**
-- All emails processed with end-to-end encryption
-- No permanent storage of email content
-- GDPR compliant data handling
-- Secure token management with Firebase
-
-### **Access Control**
-- OAuth 2.0 for Gmail access
-- JWT-based authentication
-- Role-based permissions
-- Audit logs for all actions
-
----
-
-## 🚀 **Deployment Guide**
-
-### **Frontend Deployment (Vercel)**
-```bash
-# Install Vercel CLI
-npm i -g vercel
-
-# Deploy to Vercel
-vercel --prod
-
-# Set environment variables in Vercel dashboard
-```
-
-### **Backend Deployment (Railway)**
-```bash
-# Install Railway CLI
-npm install -g @railway/cli
-
-# Login and deploy
-railway login
-railway link
-railway up
-```
-
-### **Environment Setup**
-1. Create Firebase project and download service account key
-2. Set up Google OAuth credentials
-3. Configure Twilio WhatsApp sandbox
-4. Set up Upstash Redis instance
-5. Add all environment variables to deployment platforms
 
 ---
 
@@ -778,178 +600,18 @@ railway up
 
 ---
 
-## 🏆 **Competitive Advantages**
-
-1. **🎯 Multi-Problem Solution**: Addresses spam detection, sentiment analysis, and automation
-2. **🚀 Real-World Applicability**: Solves actual pain points for organizations
-3. **🤖 Advanced AI Integration**: Uses latest Gemini and Mistral models
-4. **📱 Unique WhatsApp Integration**: Interactive chat for email querying
-5. **🔒 Enterprise-Ready**: Security, scalability, and audit features
-6. **🎨 Polished UX**: Beautiful, intuitive interface with animations
-
----
-
-## 📄 **Datasets & APIs Used**
-
-### **AI Models & APIs**
-- **Google Gemini AI**: Email content analysis and sentiment detection
-- **Mistral AI**: Advanced reasoning and content extraction
-- **Sentence Transformers**: Semantic similarity and embeddings
-- **ChromaDB**: Vector database for RAG functionality
-
-### **Third-Party Services**
-- **Gmail API**: Email access and management
-- **Google Calendar API**: Meeting scheduling
-- **Twilio WhatsApp API**: Message delivery
-- **Firebase**: Database and authentication
-- **Upstash Redis**: Caching and session management
-
-### **Datasets**
-- Custom labeled email dataset for sentiment training
-- Spam detection corpus for filtering
-- Feedback analysis templates and patterns
-
----
-
-## 🤝 **Contributing**
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-### **Development Workflow**
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new features
-5. Submit a pull request
-
----
-
-## 📜 **License**
+## 📜 **LICENSE**
 
 **Proprietary License** - All rights reserved. This project is developed for the Design-o-Tech 4.0 hackathon. Unauthorized copying, distribution, or modification is strictly prohibited.
 
 ---
 
-## 🙏 **Acknowledgments**
-
-- **Design-o-Tech 4.0** organizers for the amazing hackathon opportunity
-- **Google** for Gemini AI API access
-- **Mistral AI** for advanced language model capabilities
-- **Open Source Community** for the incredible tools and libraries
-
----
-
-## 📞 **Contact & Support**
-
-## 🏆 **HACKATHON DOMINATION STRATEGY** 🏆
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600"/>
-
-### 🎯 **WHY JUDGES WILL CHOOSE US AS WINNERS**
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 **TECHNICAL EXCELLENCE**
-```
-✅ Multi-AI Integration (Gemini + Mistral)
-✅ Real-time Processing (<2s response)
-✅ Scalable Architecture (1000+ emails/hour)
-✅ Enterprise Security (OAuth + Encryption)
-✅ Advanced RAG System (Interactive chat)
-✅ Beautiful UI/UX (Animations + Responsive)
-```
-
-### 🎨 **INNOVATION FACTORS**
-```
-🌟 First-of-its-kind WhatsApp email querying
-🌟 Multi-problem approach (3 solutions in 1)
-🌟 Real-world business impact
-🌟 Advanced sentiment analysis pipeline
-🌟 Automated meeting scheduling
-🌟 Interactive report generation
-```
-
-</td>
-<td width="50%">
-
-### 📊 **MEASURABLE IMPACT**
-```
-📈 92% sentiment analysis accuracy
-📈 95% WhatsApp delivery success rate
-📈 1000+ emails processed per hour
-📈 <2 second average response time
-📈 99.9% uptime reliability
-📈 Enterprise-grade security standards
-```
-
-### 🎯 **JUDGE APPEAL FACTORS**
-```
-🏆 Solves real organizational pain points
-🏆 Beautiful, professional presentation
-🏆 Complete end-to-end solution
-🏆 Impressive technical complexity
-🏆 Clear business value proposition
-🏆 Scalable and production-ready
-```
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
-## 🌟 **READY TO REVOLUTIONIZE EMAIL INTELLIGENCE?** 🌟
+**🚀 Made with ❤️ by Team InboxTriage for Design-o-Tech 4.0 🚀**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800"/>
-
-### 🚀 **GET STARTED NOW**
-
-<p align="center">
-  <a href="https://github.com/auraCodesKM/InboxTriage">
-    <img src="https://img.shields.io/badge/🚀_EXPLORE_CODE-GitHub_Repository-black?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="50"/>
-  </a>
-  <a href="https://inbox-triage.vercel.app">
-    <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Try_Now-blue?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0070F3" height="50"/>
-  </a>
-  <a href="https://api.inbox-triage.com/docs">
-    <img src="https://img.shields.io/badge/📚_API_DOCS-Swagger-green?style=for-the-badge&logo=swagger&logoColor=white&labelColor=85EA2D" height="50"/>
-  </a>
-</p>
-
-### 💬 **CONNECT WITH THE TEAM**
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kavin070810/">
-    <img src="https://img.shields.io/badge/🎯_KAVIN_THAKUR-Project_Lead-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/meharjot-kaur-1bb057333/">
-    <img src="https://img.shields.io/badge/🤖_MEHARJOT_KAUR-AI_Research-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-  </a>
-  <a href="https://www.linkedin.com/in/yashdeep-singh-887a08245/">
-    <img src="https://img.shields.io/badge/🎨_YASHDEEP_SINGH-Full_Stack-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-  </a>
-</p>
+*Transforming Email Chaos Into Intelligence*
 
 </div>
 
----
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"/>
-
-## 🏆 **DESIGN-O-TECH 4.0 CHAMPIONS** 🏆
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=FFD700&center=true&vCenter=true&width=600&height=80&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Team+InboxTriage;Transforming+Email+Chaos+Into+Intelligence;The+Future+of+Inbox+Management+is+HERE!" alt="Typing SVG" />
-
-### 🌟 **"Revolutionizing the way organizations handle feedback, one AI-powered email at a time."** 🌟
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"/>
-
-**🚀 Ready to witness the future of email intelligence? Let's win this hackathon together! 🚀**
-
-</div>
