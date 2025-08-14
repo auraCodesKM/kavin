@@ -1,16 +1,54 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=45&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=700&height=80&lines=🚀+InboxTriage;💥+I-n-b-o-x-T-r-i-a-g-e;⚡+I█n█b█o█x█T█r█i█a█g█e;🔥+InboxTriage+💥;🚀+InboxTriage" alt="Pixelated Exploding Logo" />
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%">
 
-## *🤖 AI-Powered Email Intelligence Revolution 🤖*
+# 🚀 **InboxTriage**
+## *The Ultimate AI Email Intelligence Revolution*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=1200&pause=600&color=00D4FF&center=true&vCenter=true&width=1000&lines=⚡+GMAIL+CHAOS+→+WHATSAPP+INTELLIGENCE;🤖+7+AI+AGENTS+ORCHESTRATING+YOUR+INBOX;🛡️+SPAM+DESTROYER+%2B+TASK+EXTRACTOR;💬+CHAT+WITH+YOUR+EMAILS+LIKE+NEVER+BEFORE;📊+SENTIMENT+ANALYSIS+%2B+AUTO+REPORTS;🏆+DESIGN-O-TECH+4.0+GAME+CHANGER!" alt="Hero Animation" />
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=1500&pause=800&color=FF6B35&center=true&vCenter=true&width=900&lines=🔥+TRANSFORM+GMAIL+CHAOS+INTO+WHATSAPP+MAGIC!;🤖+7+AI+AGENTS+WORKING+24/7+FOR+YOU!;⚡+GMAIL+→+AI+ANALYSIS+→+INSTANT+ACTIONS!;🛡️+SPAM+DETECTION+%2B+TASK+EXTRACTION!;💬+CHAT+WITH+YOUR+EMAILS+VIA+WHATSAPP!;🏆+BUILT+FOR+DESIGN-O-TECH+4.0+DOMINATION!" alt="Hero Typing" />
+<table>
+<tr>
+<td align="center" width="20%">
+🔥<br/>
+<h4>GMAIL</h4>
+<p>OAuth Monitor</p>
+</td>
+<td align="center" width="15%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
+<h4>→</h4>
+</td>
+<td align="center" width="20%">
+🛡️<br/>
+<h4>SPAM AI</h4>
+<p>ML Filter</p>
+</td>
+<td align="center" width="15%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
+<h4>→</h4>
+</td>
+<td align="center" width="20%">
+🧠<br/>
+<h4>AI BRAIN</h4>
+<p>Gemini+Mistral</p>
+</td>
+<td align="center" width="15%">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="40">
+<h4>→</h4>
+</td>
+<td align="center" width="20%">
+📱<br/>
+<h4>WHATSAPP</h4>
+<p>Instant Actions</p>
+</td>
+</tr>
+</table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=300&color=FF6B35&center=true&vCenter=true&width=900&lines=⚡+<30+SECONDS+END-TO-END+LIGHTNING!;🎯+>95%25+WHATSAPP+DELIVERY+SUCCESS!;🛡️+>90%25+SPAM+DETECTION+ACCURACY!;💬+<5+SECONDS+RAG+RESPONSE+TIME!" alt="Performance" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
 
 ![Status](https://img.shields.io/badge/🔥_STATUS-MVP_READY-FF6B35?style=for-the-badge&labelColor=000000)
 ![Hackathon](https://img.shields.io/badge/🏆_HACKATHON-DESIGN--O--TECH_4.0-4A90E2?style=for-the-badge&labelColor=000000)
