@@ -1,7 +1,8 @@
 <div align="center">
 
-# 🚀 **InboxTriage**
-## *AI-Powered Email Intelligence Revolution*
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=45&duration=2000&pause=500&color=FF6B35&center=true&vCenter=true&width=700&height=80&lines=🚀+InboxTriage;💥+I-n-b-o-x-T-r-i-a-g-e;⚡+I█n█b█o█x█T█r█i█a█g█e;🔥+InboxTriage+💥;🚀+InboxTriage" alt="Pixelated Exploding Logo" />
+
+## *🤖 AI-Powered Email Intelligence Revolution 🤖*
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
