@@ -297,7 +297,7 @@ graph LR
 <tr>
 <td align="center" width="33%">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="150"/>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="150"/>  
 
 ### 🎯 **KAVIN THAKUR**
 #### *Visionary Project Lead*
@@ -320,7 +320,7 @@ graph LR
 </td>
 <td align="center" width="33%">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="150"/>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="150"/>  
 
 ### 🤖 **MEHARJOT KAUR**
 #### *AI/ML Research Genius*
@@ -343,7 +343,7 @@ graph LR
 </td>
 <td align="center" width="33%">
 
-<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="150"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100%"/>
 
 ### 🎨 **YASHDEEP SINGH**
 #### *Full-Stack Design Wizard*
